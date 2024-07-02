@@ -1,2 +1,3 @@
 #game project
- modern dice game
+#modern dice game
+#game url:https://goodluck-mo.netlify.app/
